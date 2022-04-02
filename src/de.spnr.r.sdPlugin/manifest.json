@@ -1,0 +1,40 @@
+{
+  "Actions": [
+    {
+      "Icon": "images/actionIcon",
+      "Name": "Webradio",
+      "States": [
+        {
+          "Image": "images/actionDefaultImage",
+          "TitleAlignment": "middle",
+          "FontSize": "16"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Play webradio streams with this plugin.",
+      "UUID": "de.spnr.r"
+    }
+  ],
+  "SDKVersion": 2,
+  "Author": "Jens Spanier",
+  "CodePath": "index.html",
+  "PropertyInspectorPath": "./propertyinspector/index.html",
+  "Description": "Play webradio streams with this plugin.",
+  "Name": "Webradio",
+  "Icon": "images/pluginIcon",
+  "URL": "https://www.elgato.com/gaming/stream-deck",
+  "Version": "1.0",
+  "OS": [
+    {
+      "Platform": "mac",
+      "MinimumVersion": "10.11"
+    },
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "Software": {
+    "MinimumVersion": "4.1"
+  }
+}
