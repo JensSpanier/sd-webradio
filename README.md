@@ -4,4 +4,4 @@ This plugin allows you to listen to webradio streams. It supports all formats yo
 
 # Download
 
-[Latest version](./releases/latest)
+[Latest version](https://github.com/JensSpanier/sd-webradio/releases/latest)
